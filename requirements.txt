@@ -60,3 +60,7 @@ Students (groups of 3–5) must:
 •	Bug report (≥ 5 bugs) (1 point)
 •	Performance & security testing results (2 points)
 •	System quality evaluation (0.5 point)
+flask
+gunicorn
+requests
+pytest
